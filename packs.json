@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pads_pack",
+    "name": "Pads Pack",
+    "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/pads_pack_cover.png",
+    "tracks": [
+      {
+        "name": "Nome do Timbre 1",
+        "file": "NomeArquivo1.sf2",
+        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/pads_pack/NomeArquivo1.sf2",
+        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/nome_timbre_1.png"
+      }
+    ]
+  },
+  {
+    "id": "synth_pack",
+    "name": "Synth Pack",
+    "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/synth_pack_cover.png",
+    "tracks": [
+      {
+        "name": "Nome do Timbre 1",
+        "file": "NomeArquivo1.sf2",
+        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/NomeArquivo1.sf2",
+        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/nome_timbre_1.png"
+      }
+    ]
+  }
+]
