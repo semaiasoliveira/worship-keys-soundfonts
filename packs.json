@@ -5,10 +5,10 @@
     "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/pads_pack_cover.png",
     "tracks": [
       {
-        "name": "Nome do Timbre 1",
-        "file": "NomeArquivo1.sf2",
-        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/pads_pack/NomeArquivo1.sf2",
-        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/nome_timbre_1.png"
+        "name": "Glassheaven",
+        "file": "Glassheaven.sf2",
+        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/pads_pack/Glassheaven.sf2",
+        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/glassheaven.png"
       }
     ]
   },
@@ -18,10 +18,16 @@
     "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/synth_pack_cover.png",
     "tracks": [
       {
-        "name": "Nome do Timbre 1",
-        "file": "NomeArquivo1.sf2",
-        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/NomeArquivo1.sf2",
-        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/nome_timbre_1.png"
+        "name": "Juno Lead Synth",
+        "file": "Juno_Lead_Synth.sf2",
+        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/Juno_Lead_Synth.sf2",
+        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/juno_lead_synth.png"
+      },
+      {
+        "name": "Vintage Synth",
+        "file": "Vintage_Synth.sf2",
+        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/Vintage_Synth.sf2",
+        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/vintage_synth.png"
       }
     ]
   }
