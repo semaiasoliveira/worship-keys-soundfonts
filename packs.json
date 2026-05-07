@@ -1,33 +1,88 @@
 [
   {
+    "id": "essentials_pack",
+    "name": "Essentials Pack",
+    "cover_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/essentials_pack_cover.png",
+    "tracks": [
+      {
+        "name": "Worship Guitar",
+        "file": "Worship.Guitar.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Worship.Guitar.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/worship_guitar.png"
+      },
+      {
+        "name": "Worship Glass",
+        "file": "Worship.Glass.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Worship.Glass.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/worship_glass.png"
+      },
+      {
+        "name": "Lush Pads",
+        "file": "Lush.Pads.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Lush.Pads.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/worship_lush.png"
+      },
+      {
+        "name": "Holy Pads",
+        "file": "Holy.Pads.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Holy.Pads.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/holy_pads.png"
+      },
+      {
+        "name": "Continuous WarmPad",
+        "file": "Continuous.WarmPad.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Continuous.WarmPad.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/continuous_warmpad.png"
+      },
+      {
+        "name": "Soft Piano",
+        "file": "Soft_Piano.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Soft_Piano.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/soft_piano.png"
+      },
+      {
+        "name": "Full Grand",
+        "file": "Full.Grand.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Full.Grand.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/full_grand.png"
+      },
+      {
+        "name": "Piano",
+        "file": "Piano.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/essentials_pack/Piano.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/piano.png"
+      }
+    ]
+  },
+  {
     "id": "pads_pack",
     "name": "Pads Pack",
-    "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/pads_pack_cover.png",
+    "cover_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/pads_pack_cover.png",
     "tracks": [
       {
         "name": "Glassheaven",
         "file": "Glassheaven.sf2",
-        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/pads_pack/Glassheaven.sf2",
-        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/glassheaven.png"
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Glassheaven.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/glassheaven.png"
       }
     ]
   },
   {
     "id": "synth_pack",
     "name": "Synth Pack",
-    "cover_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/synth_pack_cover.png",
+    "cover_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/synth_pack_cover.png",
     "tracks": [
       {
         "name": "Juno Lead Synth",
         "file": "Juno_Lead_Synth.sf2",
-        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/Juno_Lead_Synth.sf2",
-        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/juno_lead_synth.png"
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/synth_pack/Juno_Lead_Synth.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/juno_lead_synth.png"
       },
       {
         "name": "Vintage Synth",
         "file": "Vintage_Synth.sf2",
-        "download_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/synth_pack/Vintage_Synth.sf2",
-        "image_url": "https://raw.githubusercontent.com/semaiasoliveira/worship-keys-soundfonts/main/images/vintage_synth.png"
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/synth_pack/Vintage_Synth.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/vintage_synth.png"
       }
     ]
   }
