@@ -60,10 +60,28 @@
     "cover_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/pads_pack_cover.png",
     "tracks": [
       {
-        "name": "Glassheaven",
-        "file": "Glassheaven.sf2",
-        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Glassheaven.sf2",
-        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/glassheaven.png"
+        "name": "Cinematic FX",
+        "file": "Cinematic_FX.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Cinematic_FX.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/cinematic_fx.png"
+      },
+      {
+        "name": "Crystal Keys",
+        "file": "Crystal_Keys.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Crystal_Keys.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/crystal_keys.png"
+      },
+      {
+        "name": "Shiny Pad",
+        "file": "Shiny_Pad.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Shiny_Pad.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/shiny_pad.png"
+      },
+      {
+        "name": "Worship Atmosphere",
+        "file": "Worship_Atmosphere.sf2",
+        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/pads_pack/Worship_Atmosphere.sf2",
+        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/worship_atmosphere.png"
       }
     ]
   },
@@ -77,12 +95,6 @@
         "file": "Juno_Lead_Synth.sf2",
         "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/synth_pack/Juno_Lead_Synth.sf2",
         "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/juno_lead_synth.png"
-      },
-      {
-        "name": "Vintage Synth",
-        "file": "Vintage_Synth.sf2",
-        "download_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/synth_pack/Vintage_Synth.sf2",
-        "image_url": "https://pub-9d73e2e2df54444383674aebc8bd203c.r2.dev/images/vintage_synth.png"
       }
     ]
   }
